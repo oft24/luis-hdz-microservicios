@@ -54,9 +54,12 @@ http://54.197.187.202:3000
 
 
 Reflexión Final
-Lo más difícil fue la creacion de los dockers dentro de la carpeta debido que me confundi bastante veces con como vienen las carpetas,  los microservicios permiten que el sistema siga funcionando aunque una parte falle. 
+[Un párrafo libre. ¿Qué fue lo más difícil? 
+Lo más difícil fue la creacion de los dockers dentro de la carpeta debido que me confundi bastante veces con como vienen las carpetas además de las estructuras de las carpetas por la termial de Linux o en la creación de mkdir, me confundí con algunas carpetas que cree de mas y la estructura quedaba mal.
+¿Qué entendieron que antes no entendían? los microservicios aunque también batalle con la terminal de Linux debido que no recordaba bien el funcionamiento de los comandos.
+ ¿En qué situación real usarían microservicios?
+En la creación de una pagina para evitar que falle o cuando necesito que funcione si o si. 
 
----
 
 ## Checklist de Autoevaluación
 
